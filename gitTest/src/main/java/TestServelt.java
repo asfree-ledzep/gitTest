@@ -27,8 +27,11 @@ public class TestServelt extends HttpServlet {
 	 */
 	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
 
+
 		System.out.println("first commit/aa");	
 		System.out.println("cc");
+		System.out.println("first commit/bb");
+		
 
 	}
 
