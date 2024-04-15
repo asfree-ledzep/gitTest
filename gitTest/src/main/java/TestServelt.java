@@ -29,12 +29,7 @@ public class TestServelt extends HttpServlet {
 
 		System.out.println("first commit/aa");	
 		System.out.println("cc");
-<<<<<<< master
-		System.out.println("first commit/bb");
-		System.out.println("first commit /cc");
-		
-=======
->>>>>>> 668fbcc Revert "5. aa"
+
 
 	}
 
