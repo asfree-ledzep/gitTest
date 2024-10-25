@@ -8,7 +8,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-aaaaaabbbbcccddddd<br>
+aaaaaabbbbcccdddddeeeee<br>
 <img alt="" src="resources/images/a.jpg" width="100" height="100"><br>
 
 <h1>Dept 테이블 목록보기</h1><%-- ${allData} --%>
